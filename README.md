@@ -1,2 +1,2 @@
-# SupervisedLearning-Challenge
- 
+ SupervisedLearning-Challenge Obervation
+ Logistic Regression classifier showed a score that reflected a little under 51% which did not yield great results. After completing random forest classifiers, the results showed a little higher at 65%. Random forest forest classifer is a better model than original model however, performance was not that great. Scaling may help to see if performance impoves.
